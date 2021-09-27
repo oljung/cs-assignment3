@@ -1,0 +1,10 @@
+D:\c#\Assignment3\Assignment3\bin\Debug\Assignment3.exe.config
+D:\c#\Assignment3\Assignment3\bin\Debug\Assignment3.exe
+D:\c#\Assignment3\Assignment3\bin\Debug\Assignment3.pdb
+D:\c#\Assignment3\Assignment3\obj\Debug\Assignment3.csprojAssemblyReference.cache
+D:\c#\Assignment3\Assignment3\obj\Debug\Assignment3.MainForm.resources
+D:\c#\Assignment3\Assignment3\obj\Debug\Assignment3.Properties.Resources.resources
+D:\c#\Assignment3\Assignment3\obj\Debug\Assignment3.csproj.GenerateResource.cache
+D:\c#\Assignment3\Assignment3\obj\Debug\Assignment3.csproj.CoreCompileInputs.cache
+D:\c#\Assignment3\Assignment3\obj\Debug\Assignment3.exe
+D:\c#\Assignment3\Assignment3\obj\Debug\Assignment3.pdb
