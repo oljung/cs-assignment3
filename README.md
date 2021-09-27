@@ -1,6 +1,6 @@
 # cs-assignment3
 This repo is an assignment for a course in c# at Malmö University. The focus of the assigment was the use a GUI (winforms) and use proper OOP structure. <br>
-Grade recieved: A
+Grade recieved: A<br>
 In order to run the application follow these steps:<br>
 1. Click "code" and "download zip"
 2. Unzip the folder
